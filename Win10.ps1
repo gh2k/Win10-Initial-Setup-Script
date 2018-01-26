@@ -125,7 +125,7 @@ $tweaks = @(
 	# "EnableMeltdownCompatFlag"    # "DisableMeltdownCompatFlag",
 
 	### 3rd Party Softare ###
-	# "InstallChocolatey",            # "UninstallChocolatey",
+	"InstallChocolatey",            # "UninstallChocolatey",
 
 	### Server Specific Tweaks ###
 	# "HideServerManagerOnLogin",   # "ShowServerManagerOnLogin",
