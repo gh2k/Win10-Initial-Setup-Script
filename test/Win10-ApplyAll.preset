@@ -110,12 +110,16 @@ DisableSearchAppInStore
 DisableNewAppPrompt
 EnableF8BootMenu
 SetDEPOptOut
+EnableMeltdownCompatFlag
 
 # HideServerManagerOnLogin
 # DisableShutdownTracker
 # DisablePasswordPolicy
 # DisableCtrlAltDelLogin
 # DisableIEEnhancedSecurity
+
+UnpinStartMenuTiles
+UnpinTaskbarIcons
 
 WaitForKey
 Restart
